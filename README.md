@@ -1,1 +1,1 @@
-Hackathon 
+HackBit - Interview Preparation Portal
